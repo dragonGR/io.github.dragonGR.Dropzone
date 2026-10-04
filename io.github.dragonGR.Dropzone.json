@@ -28,8 +28,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/dragonGR/Dropzone.git",
-                    "tag": "v1.1.0",
-                    "commit": "54c4c3e6eaaff5e9a1b5a133cf956e37b75e7f3f"
+                    "tag": "v1.2.0",
+                    "commit": "1a14131239b367a15df756d54ed1b0e75fb3b464"
                 },
                 "cargo-sources.json",
                 {
